@@ -45,7 +45,7 @@
     position: fixed;
     top: 0px;
     height: 84px;
-    background: transparent url("/image/imagenes\ refrigeracion\ lava\ tucuman\ david\ trini.jpg") no-repeat center center;
+    background: transparent url(".../image/imagenes\ refrigeracion\ lava\ tucuman\ david\ trini.jpg") no-repeat center center;
     background-size: contain;
 }
 
