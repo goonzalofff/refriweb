@@ -72,7 +72,7 @@
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
     filter: alpha(opacity=45);
     opacity: 45;
-    background: transparent url("/image/foto-elias-refrigeracion-01\ \(1\)\ tini.jpg") no-repeat center center;
+    background: transparent url(".../image/foto-elias-refrigeracion-01\ \(1\)\ tini.jpg") no-repeat center center;
     background-size: cover;
 }
 
